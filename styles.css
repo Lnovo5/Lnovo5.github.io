@@ -1,0 +1,60 @@
+body {
+  background-color:lightpink;
+}
+h1 {
+  border:dotted;
+  border-color:purple;
+  color:rgb(90,40,70);
+  text-align:center;
+  background-color:coral;
+}
+p {
+  color:rgb(50,50,50);
+}
+.heading {
+  text-decoration:underline;
+  border-style:double;
+  border-color:black;
+  background-position:2px;
+  border-radius:5px 5px 5px;
+  position:relative;
+  display: inline;
+}
+#table {
+color:rgb(90,6,135)
+}
+#video_games {
+  color:rgb(4,111,165)
+}
+ul {
+  list-style-type:circle;
+}
+#basic_info {
+  color:#CD009D
+}
+#myself {
+  list-style-type:square;
+}
+h3 {
+  font-family:Bodoni MT Condensed;
+}
+.important {
+  font-weight:bold;
+  font-family:Bahnschrift;
+}
+#textarea {
+  font-family:Agency FB;
+}
+a:link {
+  color:red;
+}
+a:visited {
+  color:green;
+}
+a:hover {
+  color:purple;
+}
+a:active {
+  color:yellow;
+}
+
