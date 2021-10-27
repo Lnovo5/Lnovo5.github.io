@@ -57,4 +57,13 @@ a:hover {
 a:active {
   color:yellow;
 }
+#signature {
+  font-family: Blackadder ITC;
+}
+figcaption {
+  text-align: right;
+  color: MediumPurple;
+  font-weight: bold;
+}
+
 
